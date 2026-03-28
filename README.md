@@ -27,8 +27,8 @@
 ## 📊 Estatísticas e Linguagens
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cicerosousaleandro&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerosousaleandro&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cicerosousaleandro&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cicerosousaleandro&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
