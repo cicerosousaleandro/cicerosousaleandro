@@ -1,28 +1,35 @@
 # 👋 Olá, eu sou Cícero Sousa
 
-**Java Developer** | **Spring Boot & Microservices** | **Cybersecurity Enthusiast**
+**Java Developer** | **Spring Boot & Microservices** | **Cybersecurity & DevSecOps**
 
 ---
 
 ## 🎯 Foco Atual
 
-Desenvolvimento de aplicações enterprise com **Java 21** e **Spring Boot**, aplicando boas práticas de segurança (AppSec), arquitetura de microserviços e conformidade com LGPD desde o design do sistema.
+Desenvolvimento de aplicações enterprise com **Java 21** e **Spring Boot**, com um diferencial: aplicar segurança desde o design (AppSec) e integrar monitoramento ativo com SIEM. 
 
-📍 Buscando primeira oportunidade como **Desenvolvedor Java Jr / Pleno**
+Estou unindo minha experiência de 10 anos em infraestrutura de redes com o desenvolvimento de software moderno, construindo um portfólio que demonstra não só como codificar, mas como proteger e monitorar o que foi codificado.
+
+📍 Buscando oportunidades como **Desenvolvedor Java Jr/Pleno** ou **Engenheiro de Software com foco em Segurança (DevSecOps)**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### **Locadora System** *(Em Desenvolvimento)*
-Sistema enterprise de gestão de locadora e vendas de veículos com arquitetura de microserviços. Foco total em segurança, auditoria de ações, criptografia de dados sensíveis (LGPD) e escalabilidade.
+Sistema enterprise de gestão de locadora com arquitetura de microserviços. Foco total em segurança, auditoria de ações, criptografia de dados sensíveis (LGPD) e futura integração com o meu laboratório SOC para monitoramento de logs em tempo real.
 - 🔗 [github.com/cicerosousaleandro/locadora-system](https://github.com/cicerosousaleandro/locadora-system)
-- 🏷️ Java 21, Spring Boot 3, Microservices, PostgreSQL, RabbitMQ, React, Docker, Spring Security (JWT)
+- ️ Java 21, Spring Boot 3, Microservices, PostgreSQL, RabbitMQ, React, Docker, Spring Security (JWT)
+
+### **SOC Lab** *(Em Desenvolvimento)*
+Laboratório prático de Security Operations Center (SOC) para validar detecção de ameaças e integrar segurança a aplicações Java.
+- 🔗 [github.com/cicerosousaleandro/soc-lab](https://github.com/cicerosousaleandro/soc-lab)
+- 🏷️ Wazuh SIEM, Ubuntu Server, MITRE ATT&CK, Detecção de Intrusão (IDS), Análise de Logs.
 
 ### **HardIron Logistics System**
 Sistema enterprise de gestão logística com arquitetura multi-module Maven, JPA/Hibernate, PostgreSQL e Docker.
 - 🔗 [github.com/cicerosousaleandro/hardiron-system](https://github.com/cicerosousaleandro/hardiron-system)
-- 🏷️ Java 17, Spring Boot, JPA, PostgreSQL, Docker
+- ️ Java 17, Spring Boot, JPA, PostgreSQL, Docker
 
 ### **Granja Admin**
 Sistema completo de gestão empresarial com backend Java/Spring Boot e frontend React.js.
@@ -39,13 +46,12 @@ Ferramenta de reconhecimento de rede em C puro com interface Win32 GUI.
 ## 💼 Background Profissional
 
 **Analista de Infraestrutura Sênior** na AM3 Soluções (2016 - atual)
-- 10+ anos de experiência com redes, infraestrutura e cybersecurity
-- Especialista em manutenção, configuração de redes corporativas e segurança 
-
+- 10+ anos de experiência prática com redes, infraestrutura e cybersecurity.
+- Especialista em manutenção, configuração de redes corporativas e segurança. Essa base me dá uma visão única sobre como o código se comporta em produção e onde estão as vulnerabilidades reais.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## ️ Stack Tecnológica
 
 ### **Backend**
 <p align="left">
@@ -54,7 +60,12 @@ Ferramenta de reconhecimento de rede em C puro com interface Win32 GUI.
   <img src="https://img.shields.io/badge/Spring_Security-JWT-red?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA/Hibernate-ORM-blue?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-16-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### **Mensageria & Event-Driven**
+<p align="left">
   <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-orange?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async_Communication-Event_Driven-purple?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ### **Frontend**
@@ -63,6 +74,13 @@ Ferramenta de reconhecimento de rede em C puro com interface Win32 GUI.
   <img src="https://img.shields.io/badge/Vite-Build%20Tool-purple?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-Styling-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### **Security & Monitoring** 
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-SIEM/XDR-yellow?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-purple?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu/Kali-orange?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### **Tools & DevOps**
@@ -75,10 +93,10 @@ Ferramenta de reconhecimento de rede em C puro com interface Win32 GUI.
 
 ---
 
-## 📚 Formação
+##  Formação
 
-- **Pós-graduação em Segurança da Informação (Defesa Cibernética)** - Faculdade Líbano / Estácio (em andamento)
-- **10+ anos** de experiência prática em infraestrutura, redes e segurança
+- **Formado em (Defesa Cibernética)** -  Estácio 
+- **10+ anos** de experiência prática "mão na massa" em infraestrutura, redes e segurança
 
 ---
 
