@@ -1,106 +1,209 @@
-# 👋 Olá, eu sou Cícero Sousa
+# 👋 Olá, eu sou Cícero Jorge Leandro de Sousa
 
-**Java Developer** | **Spring Boot & Microservices** | **Cybersecurity & DevSecOps**
-
----
-
-## 🎯 Foco Atual
-
-Desenvolvimento de aplicações enterprise com **Java 21** e **Spring Boot**, com um diferencial: aplicar segurança desde o design (AppSec) e integrar monitoramento ativo com SIEM. 
-
-Estou unindo minha experiência de 10 anos em infraestrutura de redes com o desenvolvimento de software moderno, construindo um portfólio que demonstra não só como codificar, mas como proteger e monitorar o que foi codificado.
-
-📍 Buscando oportunidades como **Desenvolvedor Java Jr/Pleno** ou **Engenheiro de Software com foco em Segurança (DevSecOps)**.
+**Desenvolvedor Java | Spring Boot | Infraestrutura | Segurança da Informação**
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🎯 Sobre mim
 
-### **Locadora System** *(Em Desenvolvimento)*
-Sistema enterprise de gestão de locadora com arquitetura de microserviços. Foco total em segurança, auditoria de ações, criptografia de dados sensíveis (LGPD) e futura integração com o meu laboratório SOC para monitoramento de logs em tempo real.
-- 🔗 [github.com/cicerosousaleandro/locadora-system](https://github.com/cicerosousaleandro/locadora-system)
-- ️ Java 21, Spring Boot 3, Microservices, PostgreSQL, RabbitMQ, React, Docker, Spring Security (JWT)
+Sou desenvolvedor backend com foco em **Java e Spring Boot**, em transição da área de infraestrutura para engenharia de software.
 
-### **SOC Lab** *(Em Desenvolvimento)*
-Laboratório prático de Security Operations Center (SOC) para validar detecção de ameaças e integrar segurança a aplicações Java.
-- 🔗 [github.com/cicerosousaleandro/soc-lab](https://github.com/cicerosousaleandro/soc-lab)
-- 🏷️ Wazuh SIEM, Ubuntu Server, MITRE ATT&CK, Detecção de Intrusão (IDS), Análise de Logs.
+Ao longo de mais de 10 anos trabalhando com redes corporativas, servidores, monitoramento e suporte à infraestrutura, desenvolvi uma visão prática de como sistemas se comportam em produção. Hoje aplico essa experiência no desenvolvimento de aplicações seguras, escaláveis e preparadas para ambientes corporativos.
 
-### **HardIron Logistics System**
-Sistema enterprise de gestão logística com arquitetura multi-module Maven, JPA/Hibernate, PostgreSQL e Docker.
-- 🔗 [github.com/cicerosousaleandro/hardiron-system](https://github.com/cicerosousaleandro/hardiron-system)
-- ️ Java 17, Spring Boot, JPA, PostgreSQL, Docker
+Meu objetivo é construir software que não apenas funcione, mas que também seja observável, seguro e fácil de manter.
 
-### **Granja Admin**
-Sistema completo de gestão empresarial com backend Java/Spring Boot e frontend React.js.
-- 🔗 [github.com/cicerosousaleandro/granja-admin-sistema](https://github.com/cicerosousaleandro/granja-admin-sistema)
-- 🏷️ Java 17, Spring Boot, Spring Security, React, SQL Server
-
-### **ICMPTool**
-Ferramenta de reconhecimento de rede em C puro com interface Win32 GUI.
-- 🔗 [github.com/cicerosousaleandro/ICMPTool](https://github.com/cicerosousaleandro/ICMPTool)
-- 🏷️ C, Win32 API, Network Programming
+Atualmente busco oportunidades como **Desenvolvedor Java**, **Backend Developer** ou funções que integrem desenvolvimento e infraestrutura.
 
 ---
 
-## 💼 Background Profissional
+# 🚀 Projetos
 
-**Analista de Infraestrutura Sênior** na AM3 Soluções (2016 - atual)
-- 10+ anos de experiência prática com redes, infraestrutura e cybersecurity.
-- Especialista em manutenção, configuração de redes corporativas e segurança. Essa base me dá uma visão única sobre como o código se comporta em produção e onde estão as vulnerabilidades reais.
+## 🔹 InfraOps Auditor *(Em desenvolvimento)*
 
----
+Ferramenta para auditoria e inventário de redes desenvolvida em Python.
 
-## ️ Stack Tecnológica
+O projeto nasceu de uma necessidade real do meu dia a dia administrando múltiplos ambientes corporativos. A proposta é automatizar tarefas como descoberta de dispositivos, inventário de ativos, comparação entre auditorias, geração de relatórios e identificação de alterações na infraestrutura.
 
-### **Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-3.x-green?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-JWT-red?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA/Hibernate-ORM-blue?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### Funcionalidades previstas
 
-### **Mensageria & Event-Driven**
-<p align="left">
-  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-orange?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Async_Communication-Event_Driven-purple?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
+- Descoberta automática de dispositivos
+- Inventário de ativos
+- Comparação entre auditorias
+- Relatórios em Excel, PDF e CSV
+- Integração futura com MikroTik, SNMP e Wazuh
 
-### **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-Build%20Tool-purple?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Styling-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+**Tecnologias**
 
-### **Security & Monitoring** 
-<p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-SIEM/XDR-yellow?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-purple?style=for-the-badge&logo=mitre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu/Kali-orange?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+- Python
+- Nmap
+- SQLite
+- Git
 
-### **Tools & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-Build-orange?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-black?style=for-the-badge&logo=intellijidea&logoColor=white" />
-</p>
+🔗 https://github.com/cicerosousaleandro/infraops-auditor
 
 ---
 
-##  Formação
+## 🔹 Locadora System *(Em desenvolvimento)*
 
-- **Formado em (Defesa Cibernética)** -  Estácio 
-- **10+ anos** de experiência prática "mão na massa" em infraestrutura, redes e segurança
+Sistema de gestão desenvolvido utilizando arquitetura de microsserviços.
+
+O projeto tem foco em arquitetura backend, autenticação, mensageria, persistência de dados e aplicação de boas práticas de segurança desde o início do desenvolvimento.
+
+**Tecnologias**
+
+- Java 21
+- Spring Boot
+- Spring Security
+- RabbitMQ
+- PostgreSQL
+- Docker
+- React
+
+🔗 https://github.com/cicerosousaleandro/locadora-system
 
 ---
 
-## 📫 Contato
+## 🔹 SOC Lab *(Em desenvolvimento)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cícero_Sousa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-jorge/)
-[![Email](https://img.shields.io/badge/Email-leandrosousa112-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosousa112@gmail.com)
+Laboratório voltado para estudos e validação de técnicas de monitoramento e resposta a incidentes.
+
+O ambiente será integrado aos projetos Java para validar geração, coleta e análise de logs em tempo real.
+
+**Tecnologias**
+
+- Wazuh
+- Ubuntu Server
+- SIEM
+- MITRE ATT&CK
+- IDS
+
+🔗 https://github.com/cicerosousaleandro/soc-lab
+
+---
+
+## 🔹 HardIron Logistics System
+
+Sistema de gestão logística desenvolvido em Java utilizando arquitetura modular.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Maven
+
+🔗 https://github.com/cicerosousaleandro/hardiron-system
+
+---
+
+## 🔹 Granja Admin
+
+Sistema de gestão empresarial com backend em Java e frontend React.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- Spring Security
+- React
+- SQL Server
+
+🔗 https://github.com/cicerosousaleandro/granja-admin-sistema
+
+---
+
+## 🔹 ICMPTool
+
+Ferramenta para reconhecimento de rede desenvolvida em linguagem C utilizando Win32 API.
+
+Projeto criado para aprofundar conhecimentos em protocolos de rede e programação de baixo nível.
+
+**Tecnologias**
+
+- C
+- Win32 API
+- Network Programming
+
+🔗 https://github.com/cicerosousaleandro/ICMPTool
+
+---
+
+# 💼 Experiência
+
+## Analista de Infraestrutura
+
+**AM3 Soluções** • 2016 – Atual
+
+Atuação em ambientes corporativos com foco em:
+
+- Administração de redes corporativas
+- MikroTik
+- VPN (OpenVPN e WireGuard)
+- Backup corporativo
+- Monitoramento de servidores
+- Infraestrutura Windows e Linux
+- Atendimento técnico remoto e presencial
+- Automação de tarefas operacionais
+
+Essa experiência influencia diretamente a forma como desenvolvo software, priorizando disponibilidade, segurança e facilidade de manutenção.
+
+---
+
+# 🛠️ Tecnologias
+
+### Backend
+
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST API
+- JWT
+
+### Banco de Dados
+
+- PostgreSQL
+- SQL Server
+- SQLite
+
+### Frontend
+
+- React
+- JavaScript
+
+### Infraestrutura
+
+- Linux
+- Windows Server
+- MikroTik
+- Docker
+- Git
+
+### Segurança
+
+- Wazuh
+- SIEM
+- MITRE ATT&CK
+- LGPD
+- AppSec
+
+### Linguagens
+
+- Java
+- Python
+- C
+
+---
+
+# 🎓 Formação
+
+**Tecnólogo em Defesa Cibernética** — Estácio
+
+---
+
+# 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cicerosousa
+- 💻 GitHub: https://github.com/cicerosousaleandro
+- 📧 E-mail: cicerosousale@gmail.com
