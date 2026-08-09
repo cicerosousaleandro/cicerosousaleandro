@@ -16,21 +16,24 @@ Tenho especial interesse por arquitetura de software, automação de infraestrut
 
 Atualmente busco oportunidades como **Engenheiro de Software**, **Backend Engineer** ou funções que integrem desenvolvimento, infraestrutura e segurança.
 
+---
+
 # 🚀 Projetos
 
 ## 🔹 InfraOps Auditor *(Em desenvolvimento)*
 
-Ferramenta para auditoria e inventário de redes desenvolvida em Python.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/images/nmap-logo-256x256.png" height="35"/>
+</p>
 
-O projeto nasceu de uma necessidade real do meu dia a dia administrando múltiplos ambientes corporativos. A proposta é automatizar tarefas como descoberta de dispositivos, inventário de ativos, comparação entre auditorias, geração de relatórios e identificação de alterações na infraestrutura.
+Ferramenta para auditoria, descoberta de dispositivos e inventário de infraestrutura desenvolvida em Python.
 
-### Funcionalidades previstas
+O projeto nasceu de uma necessidade real do meu dia a dia administrando ambientes corporativos. Está sendo desenvolvido de forma incremental, priorizando arquitetura limpa, organização do código e boas práticas de engenharia de software.
 
-- Descoberta automática de dispositivos
-- Inventário de ativos
-- Comparação entre auditorias
-- Relatórios em Excel, PDF e CSV
-- Integração futura com MikroTik, SNMP e Wazuh
+Entre as funcionalidades previstas estão descoberta automática de dispositivos, inventário de ativos, comparação entre auditorias, geração de relatórios e futuras integrações com MikroTik, SNMP e Wazuh.
 
 **Tecnologias**
 
@@ -45,9 +48,17 @@ O projeto nasceu de uma necessidade real do meu dia a dia administrando múltipl
 
 ## 🔹 Locadora System *(Em desenvolvimento)*
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+</p>
+
 Sistema de gestão desenvolvido utilizando arquitetura de microsserviços.
 
-O projeto tem foco em arquitetura backend, autenticação, mensageria, persistência de dados e aplicação de boas práticas de segurança desde o início do desenvolvimento.
+O projeto tem foco em arquitetura backend, autenticação, mensageria, persistência de dados, observabilidade e aplicação de boas práticas de segurança desde o início do desenvolvimento.
 
 **Tecnologias**
 
@@ -65,14 +76,22 @@ O projeto tem foco em arquitetura backend, autenticação, mensageria, persistê
 
 ## 🔹 SOC Lab *(Em desenvolvimento)*
 
-Laboratório voltado para estudos e validação de técnicas de monitoramento e resposta a incidentes.
+<p>
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh-documentation/current/source/_static/images/logo_wazuh.png" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+</p>
 
-O ambiente será integrado aos projetos Java para validar geração, coleta e análise de logs em tempo real.
+Laboratório voltado para estudos de monitoramento, detecção e resposta a incidentes.
+
+O ambiente será utilizado para validar geração de logs, integração com aplicações Java e Python, coleta de eventos e estudos sobre SIEM, MITRE ATT&CK e operações de segurança.
 
 **Tecnologias**
 
 - Wazuh
 - Ubuntu Server
+- Docker
 - SIEM
 - MITRE ATT&CK
 - IDS
@@ -82,6 +101,14 @@ O ambiente será integrado aos projetos Java para validar geração, coleta e an
 ---
 
 ## 🔹 HardIron Logistics System
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="35"/>
+</p>
 
 Sistema de gestão logística desenvolvido em Java utilizando arquitetura modular.
 
@@ -99,6 +126,13 @@ Sistema de gestão logística desenvolvido em Java utilizando arquitetura modula
 
 ## 🔹 Granja Admin
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35"/>
+</p>
+
 Sistema de gestão empresarial com backend em Java e frontend React.
 
 **Tecnologias**
@@ -114,6 +148,11 @@ Sistema de gestão empresarial com backend em Java e frontend React.
 ---
 
 ## 🔹 ICMPTool
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35"/>
+</p>
 
 Ferramenta para reconhecimento de rede desenvolvida em linguagem C utilizando Win32 API.
 
@@ -143,67 +182,36 @@ Atuação em ambientes corporativos com foco em:
 - Backup corporativo
 - Monitoramento de servidores
 - Infraestrutura Windows e Linux
+- Docker
+- Virtualização
 - Atendimento técnico remoto e presencial
 - Automação de tarefas operacionais
 
-Essa experiência influencia diretamente a forma como desenvolvo software, priorizando disponibilidade, segurança e facilidade de manutenção.
+Essa experiência influencia diretamente a forma como desenvolvo software, priorizando disponibilidade, segurança, observabilidade e facilidade de manutenção.
 
 ---
 
 # 🛠️ Tecnologias
 
+### Linguagens
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+</p>
+
 ### Backend
 
-- Java
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- REST API
-- JWT
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/>
+</p>
 
 ### Banco de Dados
 
-- PostgreSQL
-- SQL Server
-- SQLite
-
-### Frontend
-
-- React
-- JavaScript
-
-### Infraestrutura
-
-- Linux
-- Windows Server
-- MikroTik
-- Docker
-- Git
-
-### Segurança
-
-- Wazuh
-- SIEM
-- MITRE ATT&CK
-- LGPD
-- AppSec
-
-### Linguagens
-
-- Java
-- Python
-- C
-
----
-
-# 🎓 Formação
-
-**Tecnólogo em Defesa Cibernética** — Estácio
-
----
-
-# 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/cicerosousa
-- 💻 GitHub: https://github.com/cicerosousaleandro
-- 📧 E-mail: cicerosousale@gmail.com
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="
+```
