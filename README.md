@@ -1,20 +1,20 @@
 # 👋 Olá, eu sou Cícero Jorge Leandro de Sousa
 
-**Desenvolvedor Java | Spring Boot | Infraestrutura | Segurança da Informação**
+**Engenheiro de Software | Backend | Infraestrutura | Segurança da Informação**
 
 ---
 
 ## 🎯 Sobre mim
 
-Sou desenvolvedor backend com foco em **Java e Spring Boot**, em transição da área de infraestrutura para engenharia de software.
+Sou engenheiro de software com foco no desenvolvimento de aplicações backend, automação de infraestrutura e segurança da informação.
 
-Ao longo de mais de 10 anos trabalhando com redes corporativas, servidores, monitoramento e suporte à infraestrutura, desenvolvi uma visão prática de como sistemas se comportam em produção. Hoje aplico essa experiência no desenvolvimento de aplicações seguras, escaláveis e preparadas para ambientes corporativos.
+Ao longo de mais de 10 anos trabalhando com redes corporativas, servidores, monitoramento e infraestrutura, desenvolvi uma visão prática de como sistemas se comportam em produção. Hoje aplico essa experiência no desenvolvimento de software utilizando principalmente **Java com Spring Boot** e **Python**, sempre buscando soluções seguras, escaláveis e preparadas para ambientes corporativos.
 
-Meu objetivo é construir software que não apenas funcione, mas que também seja observável, seguro e fácil de manter.
+Meu objetivo é construir sistemas que não apenas funcionem, mas que também sejam observáveis, resilientes e fáceis de manter.
 
-Atualmente busco oportunidades como **Desenvolvedor Java**, **Backend Developer** ou funções que integrem desenvolvimento e infraestrutura.
+Tenho especial interesse por arquitetura de software, automação de infraestrutura, monitoramento, DevSecOps e desenvolvimento de ferramentas voltadas para operações de TI.
 
----
+Atualmente busco oportunidades como **Engenheiro de Software**, **Backend Engineer** ou funções que integrem desenvolvimento, infraestrutura e segurança.
 
 # 🚀 Projetos
 
